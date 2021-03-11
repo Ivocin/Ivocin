@@ -33,16 +33,16 @@ Here are some ideas to get you started:
 
 ![Ivocin's Github Stats](https://github-readme-stats.vercel.app/api?username=Ivocin&show_icons=true&theme=merko)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Ivocin/Translation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ivocin&repo=Translation&theme=merko" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Ivocin/vite-playgrounds">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ivocin&repo=vite-playgrounds&theme=merko" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/vitejs/docs-cn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitejs&repo=docs-cn&theme=merko" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/xitu/gold-miner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xitu&repo=gold-miner&theme=merko" />
 </a>
