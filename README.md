@@ -32,12 +32,17 @@ Here are some ideas to get you started:
 
 
 ![Ivocin's Github Stats](https://github-readme-stats.vercel.app/api?username=Ivocin&show_icons=true&theme=merko)
- 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivocin&repo=Translation&theme=merko)
- 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivocin&repo=vite-playgrounds&theme=merko)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitejs&repo=docs-cn&theme=merko)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ivocin&repo=Translation&theme=merko" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ivocin&repo=vite-playgrounds&theme=merko" />
+</a>
 
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xitu&repo=gold-miner&theme=merko)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitejs&repo=docs-cn&theme=merko" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xitu&repo=gold-miner&theme=merko" />
+</a>
