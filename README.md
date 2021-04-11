@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 📚 Bachelor, Electrical and Information Engineering, [DLUT](https://www.dlut.edu.cn/).
 - 👯 **We are hiring for [Minsheng Fintech Corp.Ltd](https://www.mskj.com/index.htm), if you are looking for a job in Beijing, email me.**
 - ✨ 公众号：Frontend Radio
-- 📫 掘金：[清秋](https://juejin.cn/user/940837682306830).
-- 🎬 B站：[前端之声](https://space.bilibili.com/30473568).
-- 🌐 InfoQ：[清秋](https://www.infoq.cn/u/ivocin/publish).
-- 🧩 知乎：[清秋](https://www.zhihu.com/people/Ivocin).
-- 🎙️ 喜马拉雅：[前端之声](https://www.ximalaya.com/zhubo/74381102/).
+- 📫 掘金：[清秋](https://juejin.cn/user/940837682306830)
+- 🎬 B站：[前端之声](https://space.bilibili.com/30473568)
+- 🌐 InfoQ：[清秋](https://www.infoq.cn/u/ivocin/publish)
+- 🧩 知乎：[清秋](https://www.zhihu.com/people/Ivocin)
+- 🎙️ 喜马拉雅：[前端之声](https://www.ximalaya.com/zhubo/74381102/)
 
 **Skills:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
