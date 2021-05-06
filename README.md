@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at [CMBC](http://www.cmbc.com.cn/) as a software engineer, focus on web frontend developing.
 - 📚 Master, Electrical & Telecommunications Engineering, [BUPT](https://www.bupt.edu.cn/).
 - 📚 Bachelor, Electrical and Information Engineering, [DLUT](https://www.dlut.edu.cn/).
-- 👯 **We are hiring for [Minsheng Fintech Corp.Ltd](https://www.mskj.com/index.htm), if you are looking for a job in Beijing, email me.**
+- 👯 **We are hiring for [Minsheng Fintech Corp.Ltd](https://www.mskj.com/index.htm), if you are looking for a job in Beijing or Chengdu, email me.**
 - ✨ 公众号：Frontend Radio
 - 📫 掘金：[清秋](https://juejin.cn/user/940837682306830)
 - 🎬 B站：[前端之声](https://space.bilibili.com/30473568)
