@@ -50,3 +50,15 @@ Here are some ideas to get you started:
 <a href="https://github.com/xitu/gold-miner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xitu&repo=gold-miner&theme=merko" />
 </a>
+<a href="https://github.com/slidevjs/docs-cn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slidevjs&repo=docs-cn&theme=merko" />
+</a>
+<a href="https://github.com/docschina/awesome-react-hooks-cn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=docschina&repo=awesome-react-hooks-cn&theme=merko" />
+</a>
+<a href="https://github.com/docschina/Recoil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=docschina&repo=Recoil&theme=merko" />
+</a>
+<a href="https://github.com/Ivocin/awesome-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ivocin&repo=awesome-frontend&theme=merko" />
+</a>
